@@ -1,9 +1,6 @@
 ---
 title: 'Testez vos connaissances : le modèle de boîte'
 slug: Learn/CSS/Building_blocks/Box_Model_Tasks
-tags:
-  - Beginner
-  - CSS
 translation_of: Learn/CSS/Building_blocks/Box_Model_Tasks
 ---
 
