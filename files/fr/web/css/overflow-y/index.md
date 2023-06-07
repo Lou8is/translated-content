@@ -1,10 +1,6 @@
 ---
 title: overflow-y
 slug: Web/CSS/overflow-y
-tags:
-  - CSS
-  - Propriété
-  - Reference
 translation_of: Web/CSS/overflow-y
 ---
 

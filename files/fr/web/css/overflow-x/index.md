@@ -1,10 +1,6 @@
 ---
 title: overflow-x
 slug: Web/CSS/overflow-x
-tags:
-  - CSS
-  - Propriété
-  - Reference
 translation_of: Web/CSS/overflow-x
 ---
 

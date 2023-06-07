@@ -1,11 +1,6 @@
 ---
 title: overflow-block
 slug: Web/CSS/overflow-block
-tags:
-  - CSS
-  - Propriété
-  - Propriété logique
-  - Reference
 translation_of: Web/CSS/overflow-block
 ---
 

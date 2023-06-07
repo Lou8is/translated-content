@@ -1,11 +1,6 @@
 ---
 title: overflow-inline
 slug: Web/CSS/overflow-inline
-tags:
-  - CSS
-  - Propriété
-  - Propriété logique
-  - Reference
 translation_of: Web/CSS/overflow-inline
 ---
 
